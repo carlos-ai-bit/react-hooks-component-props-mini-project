@@ -18,7 +18,8 @@ function App() {
     <>
       <Header />
       <About />
-      <ArticleList/>
+      <ArticleList />
+      <Article />
     </>
   )
 }

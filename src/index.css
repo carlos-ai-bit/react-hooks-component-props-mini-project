@@ -14,10 +14,13 @@ body {
   color: var(--text);
 }
 
-/* h1{
+h1 {
+  margin-left: 4rem;
   color: palevioletred;
-} */
+}
+
 h3 {
+  margin-left: 4rem;
   font-size: 2em;
   font-family: Montserrat, sans-serif;
   font-weight: 900;
@@ -48,6 +51,7 @@ aside img {
 }
 
 article {
+
   margin-bottom: 3rem;
 }
 
@@ -59,3 +63,23 @@ article h3 {
   color: var(--link);
   margin-bottom: 0rem;
 }
+
+#over {
+  color: white;
+}
+
+p {
+  margin-left: 4rem;
+}
+
+small {
+  margin-left: 4rem;
+}
+
+h4 {
+  margin-left: 4rem;
+}
+
+/* #p{
+  display: flex;
+} */

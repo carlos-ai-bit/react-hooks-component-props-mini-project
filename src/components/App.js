@@ -21,7 +21,7 @@ function App() {
       <ArticleList />
       <Article />
     </>
-  )
+  );
 }
 
 export default App;

@@ -24,6 +24,7 @@ h3 {
   font-size: 2em;
   font-family: Montserrat, sans-serif;
   font-weight: 900;
+  color: palevioletred;
 }
 
 .App {
@@ -34,9 +35,11 @@ h3 {
 }
 
 header h1 {
-  font-size: 3em;
+  font-size: 3rem;
 }
-
+p {
+  margin-left: 4rem;
+}
 aside {
   display: flex;
   margin-bottom: 3rem;
@@ -51,7 +54,6 @@ aside img {
 }
 
 article {
-
   margin-bottom: 3rem;
 }
 
@@ -60,16 +62,12 @@ article p {
 }
 
 article h3 {
-  color: var(--link);
+  color: palevioletred;
   margin-bottom: 0rem;
 }
 
 #over {
   color: white;
-}
-
-p {
-  margin-left: 4rem;
 }
 
 small {
@@ -80,6 +78,13 @@ h4 {
   margin-left: 4rem;
 }
 
+#Dan {
+  color: #755868;
+}
+#coffee {
+  width: 20px;
+  border-radius: 20px;
+}
 /* #p{
   display: flex;
 } */
